@@ -91,3 +91,4 @@ function alertEndOfSearch() {
 }
 
 //first online load - offline is working 
+// online ok
