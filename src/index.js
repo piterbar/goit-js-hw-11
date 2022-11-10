@@ -90,5 +90,6 @@ function alertEndOfSearch() {
   Notiflix.Notify.failure("We're sorry, but you've reached the end of search results.");
 }
 
-//first online load - offline is working 
+//first online load - offline is working
 // online ok
+// last check
